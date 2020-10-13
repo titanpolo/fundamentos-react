@@ -1,0 +1,16 @@
+.App {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: teal;
+    
+}
+
+.Card .SubCard {
+    min-width: 200px;
+}
+
+.Titulo {
+    margin-bottom: 0px;
+    padding: 10px;
+    background-color: #000;
+}
